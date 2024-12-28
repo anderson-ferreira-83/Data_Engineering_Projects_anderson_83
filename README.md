@@ -38,15 +38,15 @@ This module focuses on cloud data architecture fundamentals, offering hands-on e
 ### Use Cases
 1. **Delta Lake with EMR:** Implement a scalable data lake architecture.
    - Solution Architecture:
-     ![delta](img/edc_mod1_delta.png)
+     ![delta](1_XP_BootCamp_Data_Engineering/img/edc_mod1_delta.png)
 
 2. **Event Streaming with Kinesis:** Process and analyze streaming event data.
    - Solution Architecture:
-     ![kinesis](img/edc_mod1_delta-kinesis.png)
+     ![kinesis](1_XP_BootCamp_Data_Engineering/img/edc_mod1_delta-kinesis.png)
 
 3. **Big Data Pipeline Orchestration with Airflow:** Automate and manage data workflows.
    - Solution Architecture:
-     ![airflow](img/edc_mod1_delta-airflow.png)
+     ![airflow](1_XP_BootCamp_Data_Engineering/img/edc_mod1_delta-airflow.png)
 
 ---
 
